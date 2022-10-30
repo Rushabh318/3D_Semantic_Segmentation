@@ -1,4 +1,4 @@
-#To Do:
+*To Do:*
 
 - Install CARLA
 - Add 3D lidar sensors to CARLA data generation repo
